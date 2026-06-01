@@ -1,8 +1,18 @@
 # InsightForge: Autonomous Data Analyst Agent
 
+[![CI](https://github.com/Nasir-ux1/insightforge-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/Nasir-ux1/insightforge-agent/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/Nasir-ux1/insightforge-agent?include_prereleases&label=release)](https://github.com/Nasir-ux1/insightforge-agent/releases/tag/v0.1.0)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](pyproject.toml)
+
 InsightForge is a portfolio-ready AI/ML agent project that turns a raw CSV/XLSX dataset and a natural-language business question into a structured analysis report.
 
 The project demonstrates agent-style decomposition: dataset profiling, cleaning, analysis planning, insight generation, visualization, and report writing.
+
+## Demo
+
+![InsightForge CLI screenshot](docs/assets/insightforge-cli.png)
+
+![InsightForge animated demo](docs/assets/insightforge-demo.gif)
 
 ## Features
 
